@@ -3,6 +3,9 @@
 *.tfstate.*backup
 *.tfplan
 
+# Tfvars
+*.tfvars
+
 # Terraform dependency directory
 .terraform/
 
